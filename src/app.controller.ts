@@ -3,8 +3,7 @@ import { Controller, Get } from '@nestjs/common';
 @Controller()
 export class AppController {
   @Get()
-  async helloWord(): Promise<string> { 
-    return `hello world`
+  async helloWord(): Promise<string> {
+    return 'hello Word';
   }
 }
-
