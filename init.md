@@ -17,3 +17,4 @@
  - `npm i --save @nestjs/core @nestjs/common rxjs reflect-metadata`
  - add nest-cli.json
  - add tsconfig.build.ts
+
