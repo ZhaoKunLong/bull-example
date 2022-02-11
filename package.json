@@ -1,5 +1,5 @@
 {
-  "name": "bull-test",
+  "name": "bull-example",
   "version": "1.0.0",
   "description": "For `When manually add Redis record, but bull not triggered. ` debugger",
   "main": "index.js",
